@@ -1,0 +1,9 @@
+name: pC
+title: A Harder Combinatorics Problem
+time_limit: 2
+memory_limit: 1024
+n_input: 23
+token_mode: disabled
+public_testcases: all
+infile: ""
+outfile: ""

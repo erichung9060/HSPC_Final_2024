@@ -1,0 +1,9 @@
+name: pG
+title: 剪枝
+time_limit: 2
+memory_limit: 256
+n_input: 52
+token_mode: disabled
+public_testcases: all
+infile: ""
+outfile: ""

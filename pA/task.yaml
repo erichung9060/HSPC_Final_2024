@@ -1,0 +1,9 @@
+name: pA
+title: 大呱呱的清單
+time_limit: 3
+memory_limit: 256
+n_input: 75
+token_mode: disabled
+public_testcases: all
+infile: ""
+outfile: ""

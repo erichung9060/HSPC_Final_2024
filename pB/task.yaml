@@ -1,0 +1,9 @@
+name: pB
+title: 星球探索
+time_limit: 2
+memory_limit: 400
+n_input: 100
+token_mode: disabled
+public_testcases: all
+infile: ""
+outfile: ""

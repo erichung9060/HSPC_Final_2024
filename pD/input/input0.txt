@@ -1,0 +1,8 @@
+4
+HHHH
+SSSS
+PPPP
+CCCC
+2
+1 4
+2 4

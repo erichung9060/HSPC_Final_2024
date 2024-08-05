@@ -1,0 +1,8 @@
+6 6
+B
+.S.XX.
+X.X..X
+XXX.X.
+X.XX.X
+...X.X
+XTXXX.
